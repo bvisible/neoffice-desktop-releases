@@ -18,13 +18,13 @@ Neotime vit dans la barre des menus du Mac et dans la zone de notification de Wi
 
 ## Télécharger
 
-Version actuelle : **0.5.1** — [toutes les versions](https://github.com/bvisible/neoffice-desktop-releases/releases)
+Version actuelle : **0.5.2** — [toutes les versions](https://github.com/bvisible/neoffice-desktop-releases/releases)
 
 | Ordinateur | Fichier |
 | --- | --- |
-| Mac avec puce Apple (M1 et suivants) | [neoffice-desktop-0.5.1-arm64.dmg](https://github.com/bvisible/neoffice-desktop-releases/releases/download/v0.5.1/neoffice-desktop-0.5.1-arm64.dmg) |
-| Mac avec processeur Intel | [neoffice-desktop-0.5.1-x64.dmg](https://github.com/bvisible/neoffice-desktop-releases/releases/download/v0.5.1/neoffice-desktop-0.5.1-x64.dmg) |
-| Windows 10 et 11 | [neoffice-desktop-0.5.1-setup.exe](https://github.com/bvisible/neoffice-desktop-releases/releases/download/v0.5.1/neoffice-desktop-0.5.1-setup.exe) |
+| Mac avec puce Apple (M1 et suivants) | [neoffice-desktop-0.5.2-arm64.dmg](https://github.com/bvisible/neoffice-desktop-releases/releases/download/v0.5.2/neoffice-desktop-0.5.2-arm64.dmg) |
+| Mac avec processeur Intel | [neoffice-desktop-0.5.2-x64.dmg](https://github.com/bvisible/neoffice-desktop-releases/releases/download/v0.5.2/neoffice-desktop-0.5.2-x64.dmg) |
+| Windows 10 et 11 | [neoffice-desktop-0.5.2-setup.exe](https://github.com/bvisible/neoffice-desktop-releases/releases/download/v0.5.2/neoffice-desktop-0.5.2-setup.exe) |
 
 Sur Mac, macOS 12 ou plus récent. Pour savoir quel Mac vous avez : menu Pomme, « À propos de ce Mac », ligne « Puce » ou « Processeur ».
 
@@ -56,7 +56,7 @@ Un clic sur l'icône ouvre Neotime. Choisissez un projet et sa tâche : le chron
 
 ### La fenêtre, quand il faut de la place
 
-Le bouton à côté des réglages détache Neotime en fenêtre : les onglets passent dans une barre latérale, la journée s'étale sur deux colonnes. Sous les onglets, les conversations que vous avez épinglées. La croix réduit la fenêtre (sur Mac, elle se range ; l'icône du Dock ou Cmd + Tab la ramène) ; Neotime ne se ferme jamais ainsi. « Rattacher à la barre des menus » la remet sous l'icône. Par défaut, Neotime s'ouvre toujours sous l'icône.
+Le bouton à côté des réglages détache Neotime en fenêtre : les onglets passent dans une barre latérale, la journée s'étale sur deux colonnes. Sous les onglets, les conversations que vous avez épinglées. La croix la ferme et la remet sous son icône ; « — » la réduit dans le Dock, ou dans Stage Manager s'il est actif. En haut de la barre latérale, le logo Neoffice ; tout en bas, l'instance ouverte. Par défaut, Neotime s'ouvre toujours sous l'icône.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/neotime-window-today-dark.webp">
@@ -92,20 +92,20 @@ Parlez ou écrivez : « Crée une tâche pour la boulangerie ». Nora trouve le 
 
 ### Les notes
 
-Après un appel, dictez ce qu'il y a à faire : Nora en fait une note, un résumé et des tâches à cocher, que vous rattachez au projet.
+Écrivez ou dictez une note, avec sa mise en forme. « Enregistrer » la garde telle quelle ; « Organiser avec Nora » lui donne un titre, un résumé et les tâches à cocher, que vous rattachez au projet.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/neotime-window-notes-dark.webp">
-  <img alt="Les notes en fenêtre : la note qu'on dicte à gauche, les notes récentes à droite" src="images/neotime-window-notes-light.webp">
+  <img alt="Les notes en fenêtre : la note qu'on écrit à gauche, avec « Enregistrer » et « Organiser avec Nora », les notes récentes à droite" src="images/neotime-window-notes-light.webp">
 </picture>
 
 ### Le chat
 
-Les canaux et les messages directs de Neoffice, avec la mise en page, les fichiers et les notifications. Sur Mac, on répond depuis la notification. En fenêtre, l'épingle de l'en-tête d'une conversation la met dans la barre latérale, à un clic : ce sont les mêmes épinglées que dans la messagerie de Neoffice.
+Les canaux et les messages directs de Neoffice, avec la mise en page, les fichiers et les notifications. Sur Mac, on répond depuis la notification. En fenêtre, l'épingle de l'en-tête d'une conversation la met dans la barre latérale, à un clic : ce sont les mêmes épinglées que dans la messagerie de Neoffice. Un double-clic sur un message y met un 👍, comme sur le téléphone ; au survol, quatre autres réactions.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/neotime-window-chat-dark.webp">
-  <img alt="Le chat en fenêtre : les conversations à gauche, la conversation ouverte à droite" src="images/neotime-window-chat-light.webp">
+  <img alt="Le chat en fenêtre : les conversations à gauche, la conversation ouverte à droite, avec ses réactions" src="images/neotime-window-chat-light.webp">
 </picture>
 
 ### Sur Windows
