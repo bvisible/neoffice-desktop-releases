@@ -18,13 +18,13 @@ Neotime vit dans la barre des menus du Mac et dans la zone de notification de Wi
 
 ## Télécharger
 
-Version actuelle : **0.5.2** — [toutes les versions](https://github.com/bvisible/neoffice-desktop-releases/releases)
+Version actuelle : **0.5.6** — [toutes les versions](https://github.com/bvisible/neoffice-desktop-releases/releases)
 
 | Ordinateur | Fichier |
 | --- | --- |
-| Mac avec puce Apple (M1 et suivants) | [neoffice-desktop-0.5.2-arm64.dmg](https://github.com/bvisible/neoffice-desktop-releases/releases/download/v0.5.2/neoffice-desktop-0.5.2-arm64.dmg) |
-| Mac avec processeur Intel | [neoffice-desktop-0.5.2-x64.dmg](https://github.com/bvisible/neoffice-desktop-releases/releases/download/v0.5.2/neoffice-desktop-0.5.2-x64.dmg) |
-| Windows 10 et 11 | [neoffice-desktop-0.5.2-setup.exe](https://github.com/bvisible/neoffice-desktop-releases/releases/download/v0.5.2/neoffice-desktop-0.5.2-setup.exe) |
+| Mac avec puce Apple (M1 et suivants) | [neoffice-desktop-0.5.6-arm64.dmg](https://github.com/bvisible/neoffice-desktop-releases/releases/download/v0.5.6/neoffice-desktop-0.5.6-arm64.dmg) |
+| Mac avec processeur Intel | [neoffice-desktop-0.5.6-x64.dmg](https://github.com/bvisible/neoffice-desktop-releases/releases/download/v0.5.6/neoffice-desktop-0.5.6-x64.dmg) |
+| Windows 10 et 11 | [neoffice-desktop-0.5.6-setup.exe](https://github.com/bvisible/neoffice-desktop-releases/releases/download/v0.5.6/neoffice-desktop-0.5.6-setup.exe) |
 
 Sur Mac, macOS 12 ou plus récent. Pour savoir quel Mac vous avez : menu Pomme, « À propos de ce Mac », ligne « Puce » ou « Processeur ».
 
@@ -97,6 +97,15 @@ Parlez ou écrivez : « Crée une tâche pour la boulangerie ». Nora trouve le 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/neotime-window-notes-dark.webp">
   <img alt="Les notes en fenêtre : la note qu'on écrit à gauche, avec « Enregistrer » et « Organiser avec Nora », les notes récentes à droite" src="images/neotime-window-notes-light.webp">
+</picture>
+
+### Les séances
+
+Une visio, une visite, une réunion : Neotime l'enregistre avec l'accord des participants — votre micro et, pour une visio, le son de l'ordinateur sur une seconde piste — et Neoffice en tire le procès-verbal. On relit ensuite la séance : le résumé, le procès-verbal, les actions, les voix à nommer et la transcription qui suit la voix. Les séances sont dans l'onglet Notes, quand votre Neoffice les propose.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/neotime-window-meeting-dark.webp">
+  <img alt="Une séance relue en fenêtre : le résumé, le procès-verbal et les actions à gauche, les voix et la transcription à droite" src="images/neotime-window-meeting-light.webp">
 </picture>
 
 ### Le chat
