@@ -20,13 +20,13 @@ Neodesk vit dans la barre des menus du Mac et dans la zone de notification de Wi
 
 ## Télécharger
 
-Version actuelle : **0.5.7** — [toutes les versions](https://github.com/bvisible/neoffice-desktop-releases/releases)
+Version actuelle : **0.5.8** — [toutes les versions](https://github.com/bvisible/neoffice-desktop-releases/releases)
 
 | Ordinateur | Fichier |
 | --- | --- |
-| Mac avec puce Apple (M1 et suivants) | [neoffice-desktop-0.5.7-arm64.dmg](https://github.com/bvisible/neoffice-desktop-releases/releases/download/v0.5.7/neoffice-desktop-0.5.7-arm64.dmg) |
-| Mac avec processeur Intel | [neoffice-desktop-0.5.7-x64.dmg](https://github.com/bvisible/neoffice-desktop-releases/releases/download/v0.5.7/neoffice-desktop-0.5.7-x64.dmg) |
-| Windows 10 et 11 | [neoffice-desktop-0.5.7-setup.exe](https://github.com/bvisible/neoffice-desktop-releases/releases/download/v0.5.7/neoffice-desktop-0.5.7-setup.exe) |
+| Mac avec puce Apple (M1 et suivants) | [neoffice-desktop-0.5.8-arm64.dmg](https://github.com/bvisible/neoffice-desktop-releases/releases/download/v0.5.8/neoffice-desktop-0.5.8-arm64.dmg) |
+| Mac avec processeur Intel | [neoffice-desktop-0.5.8-x64.dmg](https://github.com/bvisible/neoffice-desktop-releases/releases/download/v0.5.8/neoffice-desktop-0.5.8-x64.dmg) |
+| Windows 10 et 11 | [neoffice-desktop-0.5.8-setup.exe](https://github.com/bvisible/neoffice-desktop-releases/releases/download/v0.5.8/neoffice-desktop-0.5.8-setup.exe) |
 
 Sur Mac, macOS 12 ou plus récent. Pour savoir quel Mac vous avez : menu Pomme, « À propos de ce Mac », ligne « Puce » ou « Processeur ».
 
@@ -69,19 +69,23 @@ Le bouton à côté des réglages détache Neodesk en fenêtre : les onglets pas
 
 ### Le courrier
 
-Les boîtes mail que Neoffice vous ouvre, la vôtre et celles que l'on partage avec vous. Un clic sur « Mail » déploie leurs dossiers dans la barre latérale ; le message se lit à côté de la liste, avec la fiche de l'expéditeur quand Neoffice le connaît : un client, un fournisseur et ses factures de l'année. Un clic droit sur une pièce jointe l'enregistre dans le Drive, en fait un document scanné ou la joint à un document de Neoffice : le serveur s'en charge, rien ne passe par votre ordinateur. Les images venues d'Internet attendent votre accord.
+Les boîtes mail que Neoffice vous ouvre, la vôtre et celles que l'on partage avec vous, chacune avec ses non-lus ; « Toutes les boîtes » réunit leurs réceptions dans une seule liste, chaque message avec l'étiquette de sa boîte. Un clic sur « Mail » déploie leurs dossiers dans la barre latérale ; le message se lit à côté de la liste, avec la fiche de l'expéditeur quand Neoffice le connaît : un client, un fournisseur et ses factures de l'année. Un clic droit sur une pièce jointe l'enregistre dans le Drive, en fait un document scanné ou la joint à un document de Neoffice : le serveur s'en charge, rien ne passe par votre ordinateur. Les images venues d'Internet attendent votre accord.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/neodesk-window-mail-dark.webp">
   <img alt="Le courrier en fenêtre : les dossiers dans la barre latérale, la liste des messages, et une facture ouverte avec la fiche du fournisseur et ses deux pièces jointes" src="images/neodesk-window-mail-light.webp">
 </picture>
 
-« Répondre avec Nora » propose une réponse dans votre style ; « Corriger », « Améliorer » et « Traduire » la reprennent avant l'envoi. Écrivez un nouveau message, transférez-en un avec les pièces jointes que vous gardez, cherchez dans un dossier ou dans tout le courrier, suivez, déplacez, archivez : c'est le courrier de votre Neoffice, celui du navigateur. Un message laissé en cours rejoint les brouillons.
+Répondre, Répondre à tous et Transférer sont au-dessus du message ; la sphère de Nora, à côté, propose une réponse dans votre style (à l'expéditeur ou à tous) ou traduit le message, et « Corriger », « Améliorer » et « Traduire » reprennent la réponse avant l'envoi. En lisant, « 2 messages plus anciens dans cette conversation » déplie le reste du fil, vos réponses envoyées comprises. La liste se range par jour, se trie des plus récents aux plus anciens ou l'inverse, et « Non lus » ou « Suivis » trouvent tous ces messages. Écrivez un nouveau message avec sa copie cachée, joignez un document de Neoffice en PDF (les factures, devis, commandes et bons de livraison des destinataires d'abord, dans le modèle et la langue de votre choix), des fichiers du Drive ou une image collée dans le texte ; transférez avec les pièces jointes que vous gardez, cherchez, suivez, déplacez, archivez : c'est le courrier de votre Neoffice, celui du navigateur. Un message s'enregistre tout seul dans les brouillons pendant que vous écrivez, en une seule copie, et un brouillon repris se rouvre dans l'éditeur.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/neodesk-window-mail-nora-dark.webp">
   <img alt="Un message d'un client et, dessous, la réponse que Nora propose, avec Corriger, Améliorer, Traduire et Envoyer" src="images/neodesk-window-mail-nora-light.webp">
 </picture>
+
+### Vos documents (Mac)
+
+Fichier › Ouvrir, ou un clic droit sur l'icône, ouvre un document Word, Excel, PowerPoint, PDF ou texte de votre ordinateur dans une fenêtre de Neodesk, et l'enregistre à sa place ; Fichier › Nouveau en crée un. L'éditeur d'un type de document se télécharge à sa première ouverture. Neodesk est proposé dans « Ouvrir avec » du Finder, sans prendre la place de vos applications habituelles.
 
 ### Le calendrier
 
