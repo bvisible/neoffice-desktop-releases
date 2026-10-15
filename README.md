@@ -14,19 +14,19 @@
   <img alt="Neodesk en fenêtre, la journée et le chrono en cours, et le popover avec Nora qui vient de créer une tâche" src="images/neodesk-hero-light.webp">
 </picture>
 
-Neodesk vit dans la barre des menus du Mac et dans la zone de notification de Windows. Un clic démarre le chrono sur une tâche, Neodesk reconnaît sur quoi vous travaillez, et chaque heure arrive dans Neoffice, sur le bon projet. En fenêtre, il ouvre aussi votre courrier et votre agenda, à côté du support, de Nora, des notes et du chat de l'équipe.
+Neodesk vit dans la barre des menus du Mac et dans la zone de notification de Windows. Un clic démarre le chrono sur une tâche, Neodesk reconnaît sur quoi vous travaillez, et chaque heure arrive dans Neoffice, sur le bon projet. En fenêtre, il ouvre aussi votre courrier et votre agenda, à côté du support, de Nora, des notes, du chat de l'équipe, de vos documents et des notifications de Neoffice.
 
 **Neotime s'appelle maintenant Neodesk.** Une Neotime installée se met à jour toute seule en Neodesk, sans rien perdre : vos instances, vos réglages, votre chrono et vos séances pas encore envoyées restent. Sur Mac, elle devient Neodesk jusque dans le dossier Applications.
 
 ## Télécharger
 
-Version actuelle : **0.5.8** — [toutes les versions](https://github.com/bvisible/neoffice-desktop-releases/releases)
+Version actuelle : **0.5.9** — [toutes les versions](https://github.com/bvisible/neoffice-desktop-releases/releases)
 
 | Ordinateur | Fichier |
 | --- | --- |
-| Mac avec puce Apple (M1 et suivants) | [neoffice-desktop-0.5.8-arm64.dmg](https://github.com/bvisible/neoffice-desktop-releases/releases/download/v0.5.8/neoffice-desktop-0.5.8-arm64.dmg) |
-| Mac avec processeur Intel | [neoffice-desktop-0.5.8-x64.dmg](https://github.com/bvisible/neoffice-desktop-releases/releases/download/v0.5.8/neoffice-desktop-0.5.8-x64.dmg) |
-| Windows 10 et 11 | [neoffice-desktop-0.5.8-setup.exe](https://github.com/bvisible/neoffice-desktop-releases/releases/download/v0.5.8/neoffice-desktop-0.5.8-setup.exe) |
+| Mac avec puce Apple (M1 et suivants) | [neoffice-desktop-0.5.9-arm64.dmg](https://github.com/bvisible/neoffice-desktop-releases/releases/download/v0.5.9/neoffice-desktop-0.5.9-arm64.dmg) |
+| Mac avec processeur Intel | [neoffice-desktop-0.5.9-x64.dmg](https://github.com/bvisible/neoffice-desktop-releases/releases/download/v0.5.9/neoffice-desktop-0.5.9-x64.dmg) |
+| Windows 10 et 11 | [neoffice-desktop-0.5.9-setup.exe](https://github.com/bvisible/neoffice-desktop-releases/releases/download/v0.5.9/neoffice-desktop-0.5.9-setup.exe) |
 
 Sur Mac, macOS 12 ou plus récent. Pour savoir quel Mac vous avez : menu Pomme, « À propos de ce Mac », ligne « Puce » ou « Processeur ».
 
@@ -83,9 +83,25 @@ Répondre, Répondre à tous et Transférer sont au-dessus du message ; la sphè
   <img alt="Un message d'un client et, dessous, la réponse que Nora propose, avec Corriger, Améliorer, Traduire et Envoyer" src="images/neodesk-window-mail-nora-light.webp">
 </picture>
 
-### Vos documents (Mac)
+### Vos documents
+
+La partie **Documents** est le Drive de Neoffice dans Neodesk : on parcourt ses dossiers, on ouvre un fichier dans NeoWrite, NeoSheet, NeoSlides ou NeoPDF, on en crée, on importe, on renomme, on déplace, on duplique, on partage ; les favoris et la corbeille y sont aussi. Un fichier glissé n'importe où dans Neodesk demande où il va : « Drive » ou « Scan ». Les Scans fonctionnent comme sur le téléphone : on dépose, on valide l'envoi.
+
+### Ouvrir un document de votre ordinateur (Mac)
 
 Fichier › Ouvrir, ou un clic droit sur l'icône, ouvre un document Word, Excel, PowerPoint, PDF ou texte de votre ordinateur dans une fenêtre de Neodesk, et l'enregistre à sa place ; Fichier › Nouveau en crée un. L'éditeur d'un type de document se télécharge à sa première ouverture. Neodesk est proposé dans « Ouvrir avec » du Finder, sans prendre la place de vos applications habituelles.
+
+### Les applications
+
+La page **Applications** montre les éditeurs de documents de Neodesk (NeoWrite, NeoSheet, NeoSlides et NeoPDF) : on les installe, on les met à jour, et on ouvre un document avec eux. Un clic fait de Neodesk le programme qui ouvre un type de document ; l'ancien programme est gardé, et se remet en un clic.
+
+### Les notifications de Neoffice
+
+Une cloche avec son chiffre, les dernières notifications de Neoffice et des bannières quand une nouvelle arrive ; un clic ouvre la page concernée dans Neoffice. Le chiffre se retrouve dans la barre des menus, le Dock et la barre latérale.
+
+### Imprimer depuis Neoffice
+
+« Imprimer sur… » envoie un document de Neoffice aux imprimantes du bureau, par Neodesk, sans fenêtre ni boîte de dialogue.
 
 ### Le calendrier
 
@@ -143,7 +159,7 @@ Une visio, une visite, une réunion : Neodesk l'enregistre avec l'accord des par
 
 ### Le chat
 
-Les canaux et les messages directs de Neoffice, avec la mise en page, les fichiers et les notifications. Sur Mac, on répond depuis la notification. En fenêtre, l'épingle de l'en-tête d'une conversation la met dans la barre latérale, à un clic : ce sont les mêmes épinglées que dans la messagerie de Neoffice. Un double-clic sur un message y met un 👍, comme sur le téléphone ; au survol, quatre autres réactions.
+Les canaux et les messages directs de Neoffice, avec la mise en page, les fichiers et les notifications. Sur Mac, on répond depuis la notification. En fenêtre, l'épingle de l'en-tête d'une conversation la met dans la barre latérale, à un clic : ce sont les mêmes épinglées que dans la messagerie de Neoffice. Un double-clic sur un message y met un 👍, comme sur le téléphone ; au survol, quatre autres réactions. Sur vos propres messages, le crayon les modifie (« modifié » s'affiche ensuite) et la corbeille les supprime, après confirmation. Un message qui arrive s'affiche tout de suite dans la conversation ouverte, même si la connexion a été coupée un moment.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/neodesk-window-chat-dark.webp">
